@@ -43,5 +43,6 @@ int main() {
 }
 ```
 Output must be file like this
+
 ![Screenshot from 2024-02-16 01-57-53](https://github.com/AnnaGmboyan/Visual_Compiler_Task1/assets/138877122/0df39c03-165b-4b2b-8855-a92e0fe09d6f)
 
